@@ -77,11 +77,11 @@ ThoughtWorks这次招人似乎有些狠。除了在微博上下大功夫，还�
 
 我认为的新问题是：`report`参数过多。当你站在一个代码维护者的角度来看：`report(2,6,9,1,700);`，我相信你是这种表情：
 
-![在此输入图片描述][1]
+![猫玩魔方](http://news.lifeyoyo.com/attachments/2011/08/1447_201108041724311vAR3.jpg)
 
 这个问题，还算是小问题，当客户提出，他们想允许用户输入9个特殊数，特殊数对应的单词也都变了，你可能这种表情：
 
-![在此输入图片描述][2]
+![看别人的代码](http://ww4.sinaimg.cn/bmiddle/7cff6573jw1efla4xsjvag205v04j7wi.gif)
 
 你好不容易为`report`加上多出的特殊数参数，调用的时候就变成了：`report(1,2,3,4,5,6,7,8,1,999);`。这下，我很难想像代码维护者的表情了。
 
@@ -93,7 +93,7 @@ ThoughtWorks这次招人似乎有些狠。除了在微博上下大功夫，还�
 
 但是在大型的业务项目里，这一点不夸张。客户的需求总是不那么清晰，看看下面这图，你就明白了：
 
-![在此输入图片描述][3]
+![](https://www.google.com.hk/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&docid=_Mo4YbQrwhizmM&tbnid=y5wzomPL9RRv4M:&ved=0CAUQjRw&url=%68%74%74%70%3a%2f%2f%77%77%77%2e%63%6e%62%6c%6f%67%73%2e%63%6f%6d%2f%76%6c%6e%6b%2f%61%72%63%68%69%76%65%2f%32%30%31%32%2f%31%31%2f%31%34%2f%32%37%37%30%31%33%39%2e%68%74%6d%6c&ei=ZJNlU4SXF42C8gXFl4Fg&psig=AFQjCNEiw-GSB2TiWKxAAmKa2n8C6W75JA&ust=1399252189681218)
 
 `温伯格的《探索需求》的书的插图`
 

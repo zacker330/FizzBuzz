@@ -93,7 +93,7 @@ ThoughtWorks这次招人似乎有些狠。除了在微博上下大功夫，还�
 
 但是在大型的业务项目里，这一点不夸张。客户的需求总是不那么清晰，看看下面这图，你就明白了：
 
-![](https://www.google.com.hk/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&docid=_Mo4YbQrwhizmM&tbnid=y5wzomPL9RRv4M:&ved=0CAUQjRw&url=%68%74%74%70%3a%2f%2f%77%77%77%2e%63%6e%62%6c%6f%67%73%2e%63%6f%6d%2f%76%6c%6e%6b%2f%61%72%63%68%69%76%65%2f%32%30%31%32%2f%31%31%2f%31%34%2f%32%37%37%30%31%33%39%2e%68%74%6d%6c&ei=ZJNlU4SXF42C8gXFl4Fg&psig=AFQjCNEiw-GSB2TiWKxAAmKa2n8C6W75JA&ust=1399252189681218)
+![](http://images.cnblogs.com/cnblogs_com/vlnk/201211/20121114162544687.jpg)
 
 `温伯格的《探索需求》的书的插图`
 
